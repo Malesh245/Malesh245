@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **MERN**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Malesh245/Malesh245)**
+💬 Ask me about **React, Javascript, HTML, CSS Java... or anything [here](https://github.com/Malesh245/Malesh245)**
 
 ⚡ Fun fact **The term “bug” to describe a glitch in a system originated when a moth caused a malfunction in an early computer.**
 
