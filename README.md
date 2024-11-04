@@ -13,7 +13,7 @@
 
 <div align="center">
  
- //🔭 I’m currently working on **Resume Builder Application**
+ <!--🔭 I’m currently working on **Resume Builder Application** -->
  
  🌱 I’m currently learning **React Native **
 
