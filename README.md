@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Resume Builder Application**
+ //🔭 I’m currently working on **Resume Builder Application**
  
- 🌱 I’m currently learning **MERN**
+ 🌱 I’m currently learning **React Native **
 
 💬 Ask me about **React, Javascript, HTML, CSS Java... or anything [here](https://github.com/Malesh245/Malesh245)**
 
